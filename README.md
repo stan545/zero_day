@@ -1,5 +1,5 @@
 # Getting to know Vagrant Virtual Machine (VM)
 ---
-![Vagrant logo](https://iconscout.com/icon/vagrant-5)
+<img src="https://iconscout.com/icon/vagrant-5" alt="Vagrant Logo"/>
 
 
